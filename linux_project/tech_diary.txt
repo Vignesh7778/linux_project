@@ -1,0 +1,22 @@
+Name:Vignesh M
+Name Roll no:411623149047(my college roll number)
+
+my favourite linux commands are:-
+
+1.echo: Prints text or strings to the standard output or redirects them to a file.
+2.touch: Creates new, empty files or updates the access/modification timestamps of existing files.
+3.cd: Changes the current directory, allowing navigation through the file system.
+4.sudo = “superuser do” → runs a command with administrator (root) privileges.  
+  su = “switch user” → by default, switches to the root user.
+5.cp: Copies files or directories from one location to another.
+
+My history commands:-
+
+1.sudo apt nmap
+2.sudo apt-get install nmap
+3.ls
+4.yum install nmap
+5.git clone https://github.com/nmap/nmap.git
+
+quote:	"The expert in anything was once a beginner."
+	"Success is the sum of small efforts, repeated day in and day out."
